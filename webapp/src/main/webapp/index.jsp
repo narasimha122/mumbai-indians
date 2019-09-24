@@ -1,3 +1,1 @@
-<h1> Hello, Welcome to Valaxy Technologies !!! </h1>
-<h2> Deploying on Kubernetes </h2>
-<h3> One last night reading is happen </h3>
+<h1> syera narasimha reddy !!! </h1>
